@@ -9,7 +9,7 @@
     },
     {
         "schemeCode": 118473,
-        "schemeName": "IDFC Tax Advantage  (ELSS) Fund-Direct Plan-Growth"
+        "schemeName": "IDFC Tax Advantage  (ELSS) Fund-Direct Plan-Growth "
     },
     {
         "schemeCode": 118473,
@@ -17,7 +17,7 @@
     },
     {
         "schemeCode": 118473,
-        "schemeName": "IDFC Tax Advantage  (ELSS) Fund-Direct Plan-Growth "
+        "schemeName": "IDFC Tax Advantage  (ELSS) Fund-Direct Plan-Growth"
     },
     {
         "schemeCode": 118540,
@@ -66,6 +66,10 @@
     {
         "schemeCode": 119549,
         "schemeName": "Sundaram Diversified Equity (ELSS) Direct Plan - Growth"
+    },
+    {
+        "schemeCode": 119723,
+        "schemeName": "SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH"
     },
     {
         "schemeCode": 120270,
@@ -133,15 +137,15 @@
     },
     {
         "schemeCode": 139781,
-        "schemeName": "Mahindra Manulife ELSS Fund - Direct Plan -Growth"
-    },
-    {
-        "schemeCode": 139781,
         "schemeName": "Mahindra Manulife ELSS Kar Bachat Yojana Direct Plan - Growth"
     },
     {
         "schemeCode": 139781,
         "schemeName": "Mahindra Manulife ELSS Kar Bachat Yojana - Direct Plan -Growth"
+    },
+    {
+        "schemeCode": 139781,
+        "schemeName": "Mahindra Manulife ELSS Fund - Direct Plan -Growth"
     },
     {
         "schemeCode": 141808,
@@ -181,11 +185,15 @@
     },
     {
         "schemeCode": 151078,
-        "schemeName": "HSBC ELSS Tax saver Fund - Direct Growth"
+        "schemeName": "HSBC ELSS Fund - Direct Growth"
     },
     {
         "schemeCode": 151078,
-        "schemeName": "HSBC ELSS Fund - Direct Growth"
+        "schemeName": "HSBC ELSS Tax saver Fund - Direct Growth"
+    },
+    {
+        "schemeCode": 151165,
+        "schemeName": "IIFL ELSS Nifty 50 Tax Saver Index Fund - Direct Plan - Growth"
     },
     {
         "schemeCode": 151165,
@@ -194,10 +202,6 @@
     {
         "schemeCode": 151165,
         "schemeName": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - Growth"
-    },
-    {
-        "schemeCode": 151165,
-        "schemeName": "IIFL ELSS Nifty 50 Tax Saver Index Fund - Direct Plan - Growth"
     },
     {
         "schemeCode": 151611,
